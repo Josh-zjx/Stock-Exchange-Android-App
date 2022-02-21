@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Stock</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="cd_avatar_icon">Avatar icon</string>
+    <string name="action_favorite">favorite</string>
+    <string name="app_label">app</string>
+    <string name="search_hint">hint</string>
+    <string name="dialog_message">dialog_test</string>
+    <string name="dialog_title">test</string>
+    <string name="buy_less_0">Cannot buy less than 0 shares</string>
+    <string name="invalid_amount">Please enter valid amount</string>
+    <string name="not_enough_money">Not enough money to buy</string>
+    <string name="success">success</string>
+    <string name="sell_less_0">Cannot sell less than 0 shares</string>
+    <string name="not_enough_share">Not enough shares to sell</string>
+</resources>
